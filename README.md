@@ -7,6 +7,7 @@
   * An extension of the previous 'Fitness-AI-Coach': a complete web application with real-time exercise recognition and counting.
 
 > Research Paper : https://arxiv.org/pdf/2411.11548
+> Progress Data : https://drive.google.com/drive/folders/1wzJ0V0ACEWbwZdSeQbRnxRS1I_lwLyaV?usp=drive_link
 
  > Project Steps
      Project Pipeline
